@@ -30,13 +30,16 @@ Username: admin
 Password: 1234
 
 Login screen : 
+
 🏥 SMART HOSPITAL MANAGEMENT SYSTEM - LOGIN 🏥
 ════════════════════════════════════════════════
+
   => Username: admin
   => Password: 1234
   ✅ Login Successful!
 
 Main Menu : 
+
 🏥 SMART HOSPITAL MANAGEMENT SYSTEM 🏥
 ════════════════════════════════════════════════
 
